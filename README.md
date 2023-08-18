@@ -46,6 +46,7 @@ Follow the instructions below to clone and set up the project on your local mach
 3. Click the "Run" button (or press Cmd + R) to build and run the app on your selected device/simulator.
 
 ## Usage
+* Update the _SearchLatitude_ and _SearchLongitude_ placeholders in the **LocationManager** class to your desired latitude and longitude.
 * The app will display the calculated direction angle and a rotating arrow icon.
 *The direction angle is calculated based on the user's phone orientation and the target location.
 * The arrow icon will rotate to point in the direction of the target location.
